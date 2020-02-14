@@ -12,5 +12,6 @@ namespace AkiExpress.MODELS
         public string City { get; set; }
         public string State { get; set; }
         public int zipCode { get; set; }
+        public string country { get; set; }
     }
 }
